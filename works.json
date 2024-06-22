@@ -8,6 +8,10 @@
         "Next JS",
         "Tailwind",
         "Node JS"
+    ], image: [
+        "https://",
+        "https://",
+        "https://",
     ]}
 ,{
     "name": "headless",
@@ -19,6 +23,10 @@
         "Next JS",
         "Tailwind",
         "Node JS"
+    ],image: [
+        "https://",
+        "https://",
+        "https://",
     ]
 },{
     "name": "headless",
@@ -30,5 +38,9 @@
         "Next JS",
         "Tailwind",
         "Node JS"
+    ],image: [
+        "https://",
+        "https://",
+        "https://",
     ]
 }]
