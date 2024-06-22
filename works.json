@@ -1,0 +1,34 @@
+[{
+    "name": "headless",
+    "description": "",
+    "links": {
+        "github": "https://",
+        "site": ""
+    },"stacks": [
+        "Next JS",
+        "Tailwind",
+        "Node JS"
+    ]}
+,{
+    "name": "headless",
+    "description": "",
+    "links": {
+        "github": "https://",
+        "site": ""
+    },"stacks": [
+        "Next JS",
+        "Tailwind",
+        "Node JS"
+    ]
+},{
+    "name": "headless",
+    "description": "",
+    "links": {
+        "github": "https://",
+        "site": ""
+    },"stacks": [
+        "Next JS",
+        "Tailwind",
+        "Node JS"
+    ]
+}]
